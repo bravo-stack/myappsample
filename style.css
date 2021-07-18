@@ -1,0 +1,32 @@
+
+header {
+    background-color: rgb(16, 11, 87);
+    color: white;
+    padding: 20px;
+}
+
+.newsletter {
+    background-color: rgb(173, 44, 98);
+    color: white;
+}
+
+input {
+    border: 5px solid rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    margin: 50px;
+    text-align: justify;
+}
+code {
+    margin: 50px;
+}
+
+.quoteText {
+    margin: 50px;
+}
