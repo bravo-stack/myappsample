@@ -29,7 +29,7 @@ a {
 }
 
 aside {
-    background-color: rgb(42, 116, 79);
+    background-color: rgb(31, 83, 57);
     color: white;
     width: auto;
     height: auto;
@@ -39,7 +39,8 @@ aside {
 }
 
 .aside-heading {
-    color: rgb(22, 22, 46);
+    color: rgb(12, 12, 24);
+    
 }
 
 .footer {
