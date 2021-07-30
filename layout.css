@@ -33,6 +33,10 @@ aside {
     text-align: justify;
 }
 
+.aside-heading {
+    color: rgb(22, 22, 46);
+}
+
 .footer {
     width: auto;
     background-color: black;
