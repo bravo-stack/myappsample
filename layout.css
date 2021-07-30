@@ -1,3 +1,8 @@
+a {
+    text-decoration: none;
+    color: orange;
+}
+
 .header {
     width: auto;
     background-color: black;
