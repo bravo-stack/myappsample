@@ -1,0 +1,47 @@
+.header {
+    width: auto;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    height: 100px;
+}
+
+.header-text {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    background-color: rgb(6, 17, 17);
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 25px;
+    margin: 10px;
+    text-align: justify;
+}
+
+aside {
+    background-color: rgb(42, 116, 79);
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 25px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.footer {
+    width: auto;
+    background-color: black;
+    color: white;
+    padding: 14px;
+    margin: 10px;
+    height: 100px;
+}
+
+.copyright-text {
+    text-align: center;
+}
